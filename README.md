@@ -1,4 +1,4 @@
-# GRL_paper_Peng-et.al-2016
+# GRL_paper_Peng-et.al-2026
 Codes to accompany &quot;Synergistic Assimilation of SWOT and In-situ Observations for the 3D Representation of a Small-Scale Intrathermocline Eddy&quot;
 
 GRL_Fig1.m → Computations and generation of plots for Figure 1 (panels a-d): observational context and data assimilation framework.
