@@ -3,9 +3,9 @@ Codes to accompany &quot;Synergistic Assimilation of SWOT and In-situ Observatio
 
 GRL_Fig1.m → Computations and generation of plots for Figure 1 (panels a-d): observational context and data assimilation framework.
 
-GRL_Fig2.m → Computations and generation of plots for Figure 2 (panels a-p): 2D SSH maps, temporal evolution, and RMSE diagnostics.
+GRL_Fig2_v2.m → Computations and generation of plots for Figure 2 (panels a-p): 2D SSH maps, temporal evolution, and RMSE diagnostics.
 
-GRL_Fig3.m → Computations and generation of plots for Figure 3 (panels a-o): across-eddy SSH, temperature, and salinity sections along the glider transect.
+GRL_Fig3_v2.m → Computations and generation of plots for Figure 3 (panels a-o): across-eddy SSH, temperature, and salinity sections along the glider transect.
 
 GRL_Fig4_SWOT_plots_v2.m → Computations and generation of plots for Figure 4 (panels a-c): 2D SSH maps on 9 May, including ADCP tracks.
 
@@ -16,9 +16,11 @@ GRL_Fig4_SWOT_stats.m → Computations and generation of plots for Figure 4g: fo
 GRL_Fig4_RMSE_Glider.m → Computes glider RMSE used for the Figure 4 hydrographic
 summary.
 
-GRL_Fig4_RMSE_CTD.m → Computes CTD RMSE used for the Figure 4 hydrographic summary.
+GRL_Fig4_CTD_RMSE.m → Computes CTD RMSE used for the Figure 4 hydrographic summary.
 
 GRL_Fig4_histo_glider_CTD.m → Computations and generation of plots for Figure 4h: bar chart summarizing glider and CTD RMSE for temperature and salinity.
+
+GRL_supporting_cold_waters.m →
 
 Workflow
 - Run GRL_Fig1.m, GRL_Fig2.m, and GRL_Fig3.m directly to reproduce Figures 1-3.
